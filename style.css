@@ -25,7 +25,10 @@ input, button {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
-input {
-  width: 90%;
+form {
+  width: 97%;
+	height: 44px;
   margin: 0 20px;
+	 box-sizing: border-box;
+border-radius: 4px;
 }
